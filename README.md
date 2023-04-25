@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the depths of recon and enumeration!**
 
-- 🤝 I’m looking for help with **Any project!**
+- 🤝 I’m looking for help with **any project!**
 
 - ⚡ Fun fact **I love table tennis and chess**
 
