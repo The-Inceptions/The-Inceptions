@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem Rosic</h1>
-<h3 align="center">A passionate attack surface researcher from the U.S</h3>
+<h3 align="center">A passionate security researcher from the U.S</h3>
 
 <p align="left"> <a href="https://twitter.com/ademrosic" target="blank"><img src="https://img.shields.io/twitter/follow/ademrosic?logo=twitter&style=for-the-badge" alt="ademrosic" /></a> </p>
 
